@@ -89,8 +89,7 @@
 
 <br/>  
 
-
-## Recent Blog Posts  
+## Other Things :)
   
 
 <br/>  
