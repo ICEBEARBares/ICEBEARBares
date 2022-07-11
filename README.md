@@ -64,7 +64,7 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://www.facebook.com/Krerkkiat Wattanaporn" target="_blank">
+<a href="https://www.facebook.com/sam.Krerkkiat" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
 <a href="https://instagram.com/s_krerkkiat" target="_blank">
@@ -73,7 +73,7 @@
 <a href="https://github.com/ICEBEARBares" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.youtube.com/user/Krerkkiat Wattanaporn" target="_blank">
+<a href="https://www.youtube.com/channel/UCbcC1g54lOY71Svs-ESSMXA" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>  
 </div>  
