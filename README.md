@@ -85,9 +85,6 @@
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ICEBEARBares&hide_border=true&layout=compact" align="center" /></div>  
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ICEBEARBares&hide_border=true&layout=compact" align="center" /></div>  
-
 <br/>  
 
 ## Other Things :)
