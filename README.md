@@ -106,5 +106,5 @@
 
 <br/>  
 
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/9m_lFLW0bkY" title="(Teaser) [BE ORIGINAL] aespa(에스파) 'Girls' (4K)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+https://www.youtube.com/watch?v=9m_lFLW0bkY
