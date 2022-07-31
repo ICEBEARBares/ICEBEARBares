@@ -39,7 +39,6 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/lightroom.png" alt="Lightroom" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobeindesign.svg" alt="Adobe InDesign" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobexd.png" alt="Adobe XD" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobeindesign.svg" alt="Adobe InDesign" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobepremierepro.png" alt="Premiere Pro" height="50" />  
