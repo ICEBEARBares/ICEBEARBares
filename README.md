@@ -7,10 +7,6 @@
 
 😄 There are many project that I made , you guys can check it out :)</div>  
   
-
-- ⚡NEXT LEVEL .. : Be The Student At Mahidol University In “ICT”  
-  
-
 <br/>  
 
 
