@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I’m Krerkkiat Wattanaporn (Sam) , Now! I’m Studying The Basic Of Programing BY THE WAY THIS PLACE IS “The Gallery Of MY CODING PROJECT”
+### <div align="center">I’m Krerkkiat Wattanaporn (Sam) , Now! I’m Studying The Basic Of Programing. By the way , This Place's “The Gallery Of MY CODING PROJECT”
 
 😄 There are many project that I made , you guys can check it out :)</div>  
   
